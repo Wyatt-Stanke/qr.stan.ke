@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+
+.micromamba
+.venv
+output.txt
+.pytest_cache
+.coverage
+**/__pycache__
+.mypy_cache
+
+
+# Sphinx documentation
+docs/_build/
+.env
+*.jpg
+.DS_Store
+dist/
+
+# JetBrains IDEs
+.idea/
+
+.ruff_cache
